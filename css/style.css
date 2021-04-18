@@ -92,9 +92,9 @@ button{
  border-radius: 3px;
 }
 a:hover {
-  color:blue;
+  color:red;
 }
 
 a:active {
-  color:greenyellow;
+  color:blue;
   }
